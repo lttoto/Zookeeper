@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zookeeper-start:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="zookeeper-start-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="zookeeper-start:war exploded" />
+    </root>
+  </artifact>
+</component>
